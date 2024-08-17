@@ -6,13 +6,15 @@
 
 #IncludeRegexTransform: 
 
+/home/stepbysteppsec/cmake-3.30.2-tutorial-source/Step1/TutorialConfig.h
+
 /home/stepbysteppsec/cmake-3.30.2-tutorial-source/Step1/tutorial.cxx
 cmath
--
-cstdlib
 -
 iostream
 -
 string
 -
+TutorialConfig.h
+/home/stepbysteppsec/cmake-3.30.2-tutorial-source/Step1/TutorialConfig.h
 
